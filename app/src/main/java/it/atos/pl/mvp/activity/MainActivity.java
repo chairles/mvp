@@ -49,6 +49,7 @@ public class MainActivity extends AppCompatActivity implements InitiativeView, V
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main_);
         ButterKnife.bind(this);
+		//test1
         /*
         ApplicationComponent appComponent = ((MainApplication) getApplication()).getApplicationComponent();
 
